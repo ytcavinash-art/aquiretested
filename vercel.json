@@ -1,6 +1,9 @@
 {
-  "buildCommand": "npm run build",
-  "outputDirectory": "aquiretested/dist",
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": null,
+  "installCommand": "",
+  "buildCommand": null,
+  "outputDirectory": "aquiretested",
   "cleanUrls": true,
   "trailingSlash": false
 }
